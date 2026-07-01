@@ -23,3 +23,4 @@ A Series is a one-dimensional labeled array capable of holding data of various t
 Pandas Series is a basic building block for data analysis and helps in understanding DataFrames easily.
 
 ---
+https://github.com/user-attachments/assets/ccac99d5-e44b-45f6-9e38-b54fe2a2cc12
